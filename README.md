@@ -63,7 +63,7 @@
 <p>
     📄 <strong>최종 보고서:</strong> 
     <a href="https://github.com/kimhee02/Korean-Diabetes-Prediction/raw/main/1조%20슈가걸%20당뇨병%20주요변수%20예측.pdf" target="_blank">
-        <em>(PDF 파일, 3.56MB)</em>
+        <em>(PDF 파일, 2.2MB)</em>
     </a>
 </p>
 
